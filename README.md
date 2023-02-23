@@ -1,5 +1,6 @@
 ## Website for Travel Agency
-This website was made as part of the Introduction to web application course.
+This website was made using Angular and it is a part of the Introduction to web application course at AGH UST.
+Backend is made with Firebase Firestore Database.
 
 ## Screenshots
 <p align="center">
