@@ -1,6 +1,7 @@
-Website for Travel Agency
+## Website for Travel Agency
+This website was made as part of the Introduction to web application course.
 
-#Screenshots
+## Screenshots
 <p align="center">
   <img src="screenshot/t-1.png" alt="">
 </p>
