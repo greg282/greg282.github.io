@@ -2,6 +2,16 @@
 This website was made using Angular and it is a part of the Introduction to web application course at AGH UST.
 Backend is made with Firebase Firestore Database.
 
+## Functionality
+* Making purchases
+* Registering new users
+* Roles for Users: Admin,Client and Manager
+* Banning users
+* Adding reviews for each tour
+* Trip manager view for manager
+* Admin panel for managing users
+* Shopping cart
+
 ## Screenshots
 <p align="center">
   <img src="screenshow/t-1.png" alt="">
