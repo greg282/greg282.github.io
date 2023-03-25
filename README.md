@@ -1,6 +1,6 @@
 ## Website for Travel Agency
 This website was made using Angular and it is a part of the Introduction to web application course at AGH UST.
-Backend is made with Firebase Firestore Database.
+Backend is made with Firebase Firestore Database. [Source code can be seen here](https://github.com/greg282/introduction-to-web-applications/releases/tag/lab6)
 
 ## Functionality
 * Making purchases
